@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sathyanarayanan.netlify.app](https://sathyanarayanan.netlify.app)
 
-- 💬 Ask me about **React, Nodejs, Linux**
+- 💬 Ask me about **React, NodeJS, MongoDB, Linux**
 
 - 📫 How to reach me **rsathyajana2000@gmail.com**
 
